@@ -1,16 +1,16 @@
 {
-	"name": "orei-hd-401mr",
+	"name": "avaccess-4kmx42-h2a",
 	"version": "1.0.0",
 	"api_version": "1.0.0",
 	"keywords": [
-		"OREI",
-		"quad",
-		"multi-view"
+		"AV Access",
+		"4x2",
+		"Switcher"
 	],
-	"manufacturer": "OREI",
-	"product": "HD-401MR",
-	"shortname": "oq",
-	"description": "OREI Quad Multi-Viewer module for Companion",
+	"manufacturer": "AV Access",
+	"product": "4KMX42-H2A",
+	"shortname": "av42",
+	"description": "AV Access 4x2 HDMI 2.0 switcher",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
